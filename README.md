@@ -16,7 +16,7 @@ Go to project directory
 cd .../Data-Structures-in-C
 ```
 
-Then choose one of two implementations
+Than choose one of two implementations
 
 ```
 cd Dynamic\ Structs/
@@ -30,17 +30,11 @@ cd Dynamic\ Trees/
 
 ##### Both are illustrating the same project one with structures and one with trees.
 
-Then all you have to do is run 'make' to compile
-And then run 'dataStructure "filename" ' to run a file through the database
+Than all you have to do is run ```make``` to compile
+And than run ```dataStructure "filename"``` to run a file through the database.
 
-There are testfiles you can execute with 'make 1 to 11' for structs --v and 'make 1 to 9'
+There are testfiles you can execute with ```make 1 to 11``` for structs --v and 'make 1 to 9'
 
 ## Cleanup
 
-After your done  just run 
-
-```
-make clean 
-```
-
-and the compiled project will get erased
+After your done  just run ```make clean``` and the compiled project will get erased
