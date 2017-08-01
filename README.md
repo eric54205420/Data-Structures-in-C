@@ -38,3 +38,5 @@ There are testfiles you can execute with ```make 1 to 11``` for structs --v and 
 ## Cleanup
 
 After your done  just run ```make clean``` and the compiled project will get erased
+
+[explanation.pdf](https://github.com/keybraker/Data-Structures-in-C/blob/master/Dynamic%20Structs/task/phase1-2.pdf)
